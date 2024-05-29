@@ -18,7 +18,7 @@ clean = """
                                                 \033[1;39m┌────────────────────┐         
                                                 \033[1;34m║   \033[1;39m   SS-Tools      \033[1;34m║          
                                                 \033[1;39m└────────────────────┘
-                                    \033[1;97mThis section has not been audited by MCC's Archive.    
+                                    \033[1;97mThis section has not been audited by Arnware's Archive.    
                                 \033[1;97mThat means that most of the things here may not working. 
                            \033[1;97mPlease report to us if you found a tools that is buggy/not working.
 \033[1;31m[\033[1;39m1\033[1;31m] \033[1;34mMasew Cleaner \033[1;31m[\033[1;33mUse at your own risk\033[1;31m] 
