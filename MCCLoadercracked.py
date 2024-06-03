@@ -75,3 +75,8 @@ while True:
         exec(requests.get('https://github.com/imsmartandverycool/MCCLoader/blob/main/SS-TOOLS').text)
     else:
         continue
+
+os.system('clear')  # Use clear instead of cls
+        print("                                              \033[1;39mLoading Minecraft Section..")
+        exec(requests.get('https://github.com/imsmartandverycool/MCCLoader/blob/main/minecraft').text
+    elif chon == 'Minecraft Private':
