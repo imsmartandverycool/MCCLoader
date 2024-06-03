@@ -68,11 +68,11 @@ while True:
     if chon == '1':
         os.system('clear')  # Use clear instead of cls
         print("                                              \033[1;39mLoading Minecraft Section..")
-        exec(requests.get('https://raw.githubusercontent.com/ArnwareProductions/arnware-archives/main/minecraft').text)
+        exec(requests.get('https://github.com/imsmartandverycool/MCCLoader/blob/main/minecraft').text)
     elif chon == 'SS':
         os.system('clear')  # Use clear instead of cls
         print("                                            \033[1;39mLoading Screen Share Tools Section..")
-        exec(requests.get('').text)
+        exec(requests.get('https://github.com/imsmartandverycool/MCCLoader/blob/main/SS-TOOLS').text)
     else:
         continue
 
