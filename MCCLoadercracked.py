@@ -57,7 +57,7 @@ pre = """
 \033[1;39m
    \033[0;31m                                          Welcome, choose any sections.
 
-                                    \033[1;31m[\033[1;39m1\033[1;31m] \033[1;34mMinecraft                \033[1;31m[\033[1;39mSS\033[1;31m] \033[1;34mScreen Share Tools
+                                    \033[1;31m[\033[1;39m1\033[1;31m] \033[1;34mMinecraft                \033[1;31m[\033[1;39mSS\033[1;31m] \033[1;34mScreen Share Tools  \033[1;31m[\033[1;39m1\033[1;31m] \033[1;34mMinecraft Private
     """
 print(pre)
 
