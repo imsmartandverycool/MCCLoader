@@ -17,7 +17,7 @@ def windowtitle(a):  # Corrected function name
 windowtitle("MCC Loader Premium ^<^/^> ^| Not Authorized")
 print("Bypassing authentication...")
 print("Authenticated...")
-windowtitle("Arnware Loader Premium | authorized")  # Corrected function name
+windowtitle("MCC Loader Premium | authorized")  # Corrected function name
 print("\nWelcome in freemuim Mode.")
 
 bg1()
@@ -26,8 +26,8 @@ time.sleep(2)
 os.system("clear")  # Use clear instead of cls
 
 banner = r"""
-       Arnware archives freemuim
-        Made by @arnisna on discord press enter to continue 
+       MCC Loader archives freemuim
+        Cracked by @Whovale discord press enter to continue 
 """[1:]
 
 Anime.Fade(Center.Center(banner), Colors.red_to_yellow, Colorate.Vertical, enter=True)
@@ -51,7 +51,7 @@ pre = """
 
 
                                              
-                    Arnware freemuim
+                    MCC Loader Cracked
 
 
 \033[1;39m
@@ -72,7 +72,7 @@ while True:
     elif chon == 'SS':
         os.system('clear')  # Use clear instead of cls
         print("                                            \033[1;39mLoading Screen Share Tools Section..")
-        exec(requests.get('https://raw.githubusercontent.com/ArnwareProductions/arnware-archives/main/SS-TOOLS').text)
+        exec(requests.get('').text)
     else:
         continue
 
