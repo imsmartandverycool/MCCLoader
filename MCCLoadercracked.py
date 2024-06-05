@@ -58,8 +58,8 @@ pre = """
    \033[0;31m                                          Welcome, choose any sections.
 
                                     \033[1;31m[\033[1;39m1\033[1;31m] \033[1;34mMinecraft                \033[1;31m[\033[1;39mSS\033[1;31m] \033[1;34mScreen Share Tools  
-
     """
+print(pre)
 
 while True:
     os.system('clear')  # Use clear instead of cls
@@ -67,9 +67,9 @@ while True:
     chon = Write.Input("         [×] >>  ", Colors.red_to_purple, interval=0.0025)
     if chon == '1':
         os.system('clear')  # Use clear instead of cls
-        exec(requests.get('https://github.com/imsmartandverycool/MCCLoader/blob/main/minecraft').text)
+        print("                                              \033[1;39mLoading Minecraft Section..")
+        exec(requests.get('https://raw.github.com/imsmartandverycool/MCCLoader/blob/main/minecraft').text)
     elif chon == 'SS':
         os.system('clear')  # Use clear instead of cls
         print("                                            \033[1;39mLoading Screen Share Tools Section..")
-        exec(requests.get('https://github.com/imsmartandverycool/MCCLoader/blob/main/SS-TOOLS').text)
-    elif chon == 'SS':
+        exec(requests.get('https://raw.github.com/imsmartandverycool/MCCLoader/blob/main/SS-TOOLS').text)
